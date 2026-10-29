@@ -11,7 +11,7 @@ It is useful when references should line up with a physical or catalogued collec
 
 ### Install in Zotero
 
-1. Download the [raw file](https://raw.githubusercontent.com/xiaguojun2004-dev/csl-styles/main/apa-numeric-call-number.csl).
+1. Download the [raw file](https://raw.githubusercontent.com/Augustus-2004OKC/csl-styles/main/apa-numeric-call-number.csl).
 2. In Zotero, open **Settings → Cite**, click **+**, and choose the downloaded `.csl` file.
 3. Pick "APA 7th (numeric citations, sorted by call number)" in the Word, LibreOffice, or Google Docs plugin, or when creating a bibliography.
 
